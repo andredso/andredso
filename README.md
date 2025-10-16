@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/andré-de-souza-oliveira-6b545b381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/andré-de-souza-oliveira-6b545b381" height="30" width="40" /></a>
-<a href="https://fb.com/andré oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andré oliveira" height="30" width="40" /></a>
-<a href="https://instagram.com/andredsoliv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andredsoliv" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/andré-de-souza-oliveira-6b545b381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/andré-de-souza-oliveira-6b545b381" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61561192483071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andré oliveira" height="30" width="40" /></a>
+<a href="https://www.instagram.com/andredsoliv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andredsoliv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
