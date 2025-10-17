@@ -1,23 +1,25 @@
 ![banner](https://github.com/andredso/impressao-3d/blob/main/IMG_0072.JPG)
 
-<h1 align="center">Olá 👋, Eu sou o André de Souza Oliveira</h1>
-<h3 align="center">Desenvolvo aplicações Intranet/Web, programação de scripts e macros. Executo desenho técnico CAD/3D e impressão 3D</h3>
+<h2 align="center">Olá 👋, Eu sou o André</h2>
+<h4 align="center">Desenvolvo aplicações Intranet/Web, programação de scripts e macros. Realizo desenho técnico CAD 2D e 3D.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andredso&label=Profile%20views&color=0e75b6&style=flat" alt="andredso" /> </p>
 
-- 🔭 No momento estou trabalhando com: **Python, HTML, CSS, Javascript, MySQL, SQL e CGI**
+- 🔭 No momento estou trabalhando com: **Python, HTML, CSS, Javascript, MySQL, SQL e CGI.**
 
-- 🌱 Atualmente estou me aperfeiçoando em: **Python, HTML, CSS, Javascript e Linux**
+- 🌱 Atualmente estou me aperfeiçoando em: **Python, HTML, CSS, Javascript e Linux.**
 
-- 🤝 Procuro colaboração com: **Python, HTML, CSS, Javascript, MySQL, SQL e CGI**
+- 🤝 Procuro colaborações com: **Python, HTML, CSS, Javascript, MySQL, SQL, CGI e impressão 3D.**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/andredso](https://github.com/andredso)
+- 👨‍💻 Todos os meus projetos CAD 3D estão disponíveis em: [https://github.com/andredso](https://github.com/andredso)
 
-- 💬 Pergunte-me sobre: **Python, HTML, CSS, Javascript, MySQL, SQL e CGI**
+- 💬 Pergunte-me sobre: **Python, HTML, CSS, Javascript, MySQL, SQL, CGI, CAD e Impressão 3D.**
 
 - 📫 Contato: **axiscoord@outlook.com**
 
 - 📄 Sobre mim: [https://www.linkedin.com/in/andr%C3%A9-de-souza-oliveira-6b545b381](https://www.linkedin.com/in/andr%C3%A9-de-souza-oliveira-6b545b381)
+
+- ⚡ Fato curioso: **Adoro chá, maria-mole, suspiro e paçoca!**
 
 <h3 align="left">Me contate em:</h3>
 <p align="left">
