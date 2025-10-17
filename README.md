@@ -11,7 +11,9 @@
 
 - 🤝 Procuro colaborações com: **Python, HTML, CSS, Javascript, MySQL, SQL, CGI e impressão 3D.**
 
-- 👨‍💻 Todos os meus projetos CAD 3D estão disponíveis em: [https://github.com/andredso](https://github.com/andredso)
+- 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/andredso](https://github.com/andredso)
+
+- 📐 Meu portifólio com desenhos 3D estão disponíveis em: [https://axiscoord.wixsite.com/portfolio](https://axiscoord.wixsite.com/portfolio)
 
 - 💬 Pergunte-me sobre: **Python, HTML, CSS, Javascript, MySQL, SQL, CGI, CAD e Impressão 3D.**
 
