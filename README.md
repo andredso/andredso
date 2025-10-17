@@ -7,13 +7,13 @@
 
 - 🔭 No momento estou trabalhando com: **Python, HTML, CSS, Javascript, MySQL, SQL e CGI.**
 
-- 🌱 Atualmente estou me aperfeiçoando em: **Python, HTML, CSS, Javascript e Linux.**
+- 🌱 Atualmente me aperfeiçoando em: **Python, HTML, CSS, Javascript e Linux.**
 
 - 🤝 Procuro colaborações com: **Python, HTML, CSS, Javascript, MySQL, SQL, CGI e impressão 3D.**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/andredso](https://github.com/andredso)
+- 👨‍💻 Alguns dos meus projetos estão disponíveis em: [https://github.com/andredso](https://github.com/andredso)
 
-- 📐 Meu portifólio com desenhos 3D estão disponíveis em: [https://axiscoord.wixsite.com/portfolio](https://axiscoord.wixsite.com/portfolio)
+- 📐 Meu portifólio com desenhos 3D está disponível em: [https://axiscoord.wixsite.com/portfolio](https://axiscoord.wixsite.com/portfolio)
 
 - 💬 Pergunte-me sobre: **Python, HTML, CSS, Javascript, MySQL, SQL, CGI, CAD e Impressão 3D.**
 
