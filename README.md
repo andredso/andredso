@@ -1,4 +1,4 @@
-![banner](https://github.com/andredso/impressao-3d/blob/main/IMG_0072.JPG)
+![banner](https://github.com/andredso/impressao-3d/blob/main/IMG_0073.JPG)
 
 <h2 align="center">Olá 👋, Eu sou o André</h2>
 <h4 align="center">Desenvolvo aplicações Intranet/Web, programação de scripts e macros. Realizo desenho técnico CAD 2D e 3D.</h4>
