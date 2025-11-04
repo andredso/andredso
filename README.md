@@ -21,7 +21,7 @@
 
 - 📄 Sobre mim: [https://www.linkedin.com/in/andr%C3%A9-de-souza-oliveira-6b545b381](https://www.linkedin.com/in/andr%C3%A9-de-souza-oliveira-6b545b381)
 
-- ⚡ Fato curioso: **Adoro chá, maria-mole, suspiro e paçoca!**
+- ⚡ Fato curioso: **Sei imitar o arrulho da pomba e o cacarejo da galinha!**
 
 <h3 align="left">Me contate em:</h3>
 <p align="left">
